@@ -14,12 +14,12 @@ An easy to use solution for finding the smallest number from a multidimensional 
 
 Arrays and objects are traversed recursively, number values are compared, the rest are skipped.
 
-Returns `false` on failure
+Returns `false` on failure.
 
 ## Syntax
 
 ``` js
-recursiveMin(objOrArray)
+recursiveMin(objOrArray, min)
 ```
 
 #### objOrArray
