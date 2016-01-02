@@ -1,0 +1,43 @@
+{
+  "name": "recursive-min",
+  "version": "0.1.0",
+  "description": "Returns the smallest number from a multidimensional array or object.",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyxla/recursive-min"
+  },
+  "keywords": [
+    "min",
+    "minimum",
+    "smallest",
+    "number",
+    "recursive",
+    "recursion",
+    "small",
+    "object",
+    "array"
+  ],
+  "author": {
+    "name": "Marin Atanasov",
+    "email": "contact@marinatanasov.com",
+    "url": "http://marinatanasov.com"
+  },
+  "contributors": [
+    "tyxla"
+  ],
+  "bugs": {
+    "url": "https://github.com/tyxla/recursive-min/issues"
+  },
+  "homepage": "https://github.com/tyxla/recursive-min",
+  "license": "MIT"
+}
